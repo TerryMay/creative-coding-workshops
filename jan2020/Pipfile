@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 opencv-python = "*"
 dlib = "*"
-imutils = "*"
 
 [requires]
 python_version = "3.7"
